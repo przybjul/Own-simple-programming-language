@@ -3,3 +3,10 @@ Design of a very simple programming language and implementation of its compiler.
 
 # Realization
 The program was made in Java 17.0.3, lexical parsing was done by ANTLR 4.10.1. The most important files are: 'LLVMActions' it contains the code supporting the created language, while the 'LLVMGenerator' file is responsible for the intermediate code (IR) generation.
+
+# Characteristics of the language
+1. Simple arithmetic operations
+2. Conditional statements
+3. Loops
+4. Functions
+5. Global and local variables
